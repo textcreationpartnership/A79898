@@ -1,0 +1,775 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Looking-glass for good women to dress themselves by: held forth in the life &amp; death of Mrs. Katherine Clarke, who dyed, Anno Christi, 1675. Late wife of Mr. Samuel Clarke, minister.</title>
+            <author>Clarke, Samuel, 1599-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79898</idno>
+            <idno type="STC">Wing C4540A</idno>
+            <idno type="STC">ESTC R223051</idno>
+            <idno type="EEBO-CITATION">45097634</idno>
+            <idno type="OCLC">ocm 45097634</idno>
+            <idno type="VID">171238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Looking-glass for good women to dress themselves by: held forth in the life &amp; death of Mrs. Katherine Clarke, who dyed, Anno Christi, 1675. Late wife of Mr. Samuel Clarke, minister.</title>
+                  <author>Clarke, Samuel, 1599-1682.</author>
+               </titleStmt>
+               <extent>88, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Miller, at the Gilded Acorn in St. Paul's Church-yard, over against the little north door.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Samuel Clarke by Wing.</note>
+                  <note>Includes publisher's catalog ([8] p. at end).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clarke, Katherine, 1602-1675.</term>
+               <term>Christian life --  England.</term>
+               <term>Christian biography --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171238:1" rendition="simple:additions"/>
+            <p>A Looking-Glaſs FOR GOOD WOMEN TO Dreſs themſelves by: Held forth in the LIFE &amp; DEATH OF M<hi rend="sup">rs.</hi> 
+               <hi>Katherine Clarke,</hi> WHO Dyed, <hi>Anno Chriſti,</hi> 1675. Late Wife of Mr. <hi>Samuel Clarke,</hi> Miniſter.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Miller,</hi> at the Gilded Acorn in St. <hi>Paul</hi>'s Church-yard, over againſt the little North Door. 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171238:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:171238:2"/>
+            <head>THE LIFE and DEATH OF M<hi rend="sup">rs.</hi> 
+               <hi>Katherine Clarke,</hi> WHO Died <hi>Anno Chriſti,</hi> 1675.</head>
+            <p>
+               <hi>KAtherine Overton</hi> (for ſo was her Virgin Name) was born at <hi>Bedworth</hi> in the County of <hi>Warwick,</hi>
+               <note place="margin">Her Pa<g ref="char:EOLhyphen"/>rentage and Birth.</note> four miles from <hi>Coventry, February</hi> the Twenty fifth, <hi>Anno Chriſti,</hi> 1602. of Godly, and Religious Parents. Her Father was Mr.
+<pb n="4" facs="tcp:171238:3"/> 
+               <hi>Valentine Overton,</hi> Rector of <hi>Bedworth,</hi> where he lived a conſtant, and painful Preacher of Gods Holy Word till he was almoſt Eighty two years old. Her Mother was Mrs. <hi>Iſa<g ref="char:EOLhyphen"/>verton,</hi> a gracious Woman, and an excellent Huſwife, who took off the whole burden of Family affairs, both within, and without Doors from her Huſband, that he might with the more freedom attend his Holy Calling.</p>
+            <p>
+               <note place="margin">Her Edu<g ref="char:EOLhyphen"/>cation.</note>Our <hi>Katherine</hi> was, by theſe her Parents brought up Reli<g ref="char:EOLhyphen"/>giouſly, and it pleaſed God be<g ref="char:EOLhyphen"/>times to plant the Seeds of Grace in her Heart, which firſt diſcovered themſelves,<note place="margin">Early working of Grace.</note> when ſhe was about fifteen years Old: At which time God was pleaſed to diſcover unto her the corruption of her na<g ref="char:EOLhyphen"/>ture, and ſome common miſ<g ref="char:EOLhyphen"/>carriages
+<pb n="5" facs="tcp:171238:3"/> which are incident unto youth: And theſe made ſuch a deep impreſſion upon her tender years, that where<g ref="char:EOLhyphen"/>as ſhe was naturally of a cheerful <hi>Sanguine</hi> Conſtitu<g ref="char:EOLhyphen"/>tion, ſhe now became ſerious, and ſomewhat <hi>Melancholy:</hi>
+               <note place="margin">Her Temp<g ref="char:EOLhyphen"/>tations, And ſup<g ref="char:EOLhyphen"/>port.</note> Hereupon Satan, that Old Ser<g ref="char:EOLhyphen"/>pent, and Enemy to our Souls; aſſaulted her with many, and various Temptations, where<g ref="char:EOLhyphen"/>by he ſought to quench theſe Heavenly Sparks, to ſtifle this New Creature in its firſt Con<g ref="char:EOLhyphen"/>ception. But by frequent rea<g ref="char:EOLhyphen"/>ding the ſacred Scriptures, di<g ref="char:EOLhyphen"/>ligent attending to the Word Preached, and ſecret Prayer, it pleaſed the All-Wiſe God to ſupport, and ſtrengthen her againſt him, and all his Devi<g ref="char:EOLhyphen"/>ces. Yet did theſe conflicts continue the longer, becauſe ſhe had none to whom ſhe
+<pb n="6" facs="tcp:171238:4"/> durſt unboſome herſelf, and make her Caſe known.</p>
+            <p>When ſhe was about ſeven<g ref="char:EOLhyphen"/>teen years old,<note place="margin">More Troubles.</note> ſhe was by her Parents ſent to <hi>Siwel</hi> in <hi>Nor<g ref="char:EOLhyphen"/>thampton-ſhire</hi> to wait upon a young Lady, that was ſome<g ref="char:EOLhyphen"/>what Related to her.</p>
+            <p>Yet this kind of life was ſo tedious and irkſom to her, that at the end of Six Months ſhe prevailed with her Pa<g ref="char:EOLhyphen"/>rents to ſend for her home again.<note place="margin">Her return home.</note> Hear the Narrative of it in her own Word as they were found Written in her Cabinet after her De<g ref="char:EOLhyphen"/>ceaſe.</p>
+            <q rend="margDblQuotes">
+               <p>
+                  <note place="margin">Her own acco<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of her Con<g ref="char:EOLhyphen"/>verſion.</note>When (ſaith ſhe) I was but young, my Father being at Prayers in his Family, I many times found ſuch ſweetneſs, and was ſo affect<g ref="char:EOLhyphen"/>ed therewith that I could not but wiſh that my Heart might oftner be in ſuch a
+<pb n="7" facs="tcp:171238:4"/> frame. But Childhood, and the Vanities thereof ſoon cooled theſe Heavenly Sparks. But my Father cau<g ref="char:EOLhyphen"/>ſed me to write Sermons, and to repeat the ſame; As alſo to learn Mr. <hi>Perkins</hi> his <hi>Catechiſm,</hi> which I oft re<g ref="char:EOLhyphen"/>peated to my ſelf when I was alone; And therein eſpecially I took notice of thoſe places wherein he had ſet down the Signs and Marks of a ſtrong, and weak Faith, being convinced in my Conſcience that without Faith I could not be ſaved; And that every Faith would not ſerve turn to bring me to Heaven.</p>
+               <p>Hereupon I fell to Exa<g ref="char:EOLhyphen"/>mination of my ſelf and though I could not find the Marks of a Strong, yet (through Gods Mercy) I
+<pb n="8" facs="tcp:171238:5"/> found the Marks of a true, though but weak Faith, which was ſome Comfort and ſupport to me. And that God which began this good work in me, was pleaſed to quicken and ſtir me up to a diligent uſe of ſuch means as himſelf had ordained and appointed for the encreaſe thereof: As Hearing the Word Preached: Receiving the Sacrament of the Lords Supper, and uſe of other pri<g ref="char:EOLhyphen"/>vate Duties.</p>
+               <p>But when I was about ſeventeen years old my Pa<g ref="char:EOLhyphen"/>rents ſent me to wait upon a young Gentlewoman in <hi>Northamptonſhire,</hi> the on<g ref="char:EOLhyphen"/>ly Daughter of Sr. <hi>W.W.</hi> At which time being ſent ſo far from my neer and dear Re<g ref="char:EOLhyphen"/>lations, and meeting with ſome other diſcouragements
+<pb n="9" facs="tcp:171238:5"/> in the Family, through want of the means of Grace, which I formerly enjoyed, I grew very <hi>Melancholy.</hi>
+               </p>
+               <p>I began alſo to have great workings of Conſcience in me, and Satan (that deadly Enemy to the health, and welfare of our Souls, who like a Roaring Lyon walks about continually ſeeking whom he may devour) took his advantage (through my Ignorance of his devices) to raiſe up fears, doubts, and terrors of Conſcience in me, by reaſon of my mani<g ref="char:EOLhyphen"/>fold Sins, and for walking ſo unworthy Gods Mercies whilſt I did enjoy them, and for being ſo unfruitful un<g ref="char:EOLhyphen"/>der the means of Grace, and ſo unable to obey God, and to keep his Commadments.</p>
+               <p>And by reaſon hereof I
+<pb n="10" facs="tcp:171238:6"/> had no Peace, nor reſt in my Soul, Night nor Day, but was perſwaded that all the threatnings contained in the Book of God againſt Wicked and Ungodly men did belong unto me, and were my Por<g ref="char:EOLhyphen"/>tion, as being one of them againſt whom they were de<g ref="char:EOLhyphen"/>nounced; Inſomuch as when I took up the Bible to read therein, it was accompanied with much fear and trem<g ref="char:EOLhyphen"/>bling; Yet being convinced that it was my Duty fre<g ref="char:EOLhyphen"/>quently to read Gods Word, I durſt not omit, or neglect it.</p>
+               <p>Thus I continued a great while, bearing the burden of grievous Temptations, and inward Afflctions of Con<g ref="char:EOLhyphen"/>ſcience, yet durſt I not open the wound, nor reveal my condition to any, as think<g ref="char:EOLhyphen"/>ing
+<pb n="11" facs="tcp:171238:6"/> and judging my condi<g ref="char:EOLhyphen"/>tion and caſe to be like no Bodies elſe: But God who is rich and infinite in Mer<g ref="char:EOLhyphen"/>cy, and Jeſus Chriſt, who bought his Elect at ſo dear a rate, would not ſuffer any of his to be loſt, and there<g ref="char:EOLhyphen"/>fore he was graciouſly plea<g ref="char:EOLhyphen"/>ſed to preſerve, ſtrengthen, and uphold me by his own power from ſinking into Hell through Deſpair, and from running out of my Wits.</p>
+               <p>Thus by reaſon of my continual grief and anguiſh of Heart Night and Day, I was ſo weakned and chang<g ref="char:EOLhyphen"/>ed within the compaſs of theſe ſix Months, that when I came home my Dear Pa<g ref="char:EOLhyphen"/>rents they ſcarce knew me.<note place="margin">Her growth i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Grace.</note>
+               </p>
+            </q>
+            <p>Some years after her return,
+<pb n="12" facs="tcp:171238:7"/> ſhe (for the moſt part) con<g ref="char:EOLhyphen"/>tinued in her Fathers Family, where by a diligent and con<g ref="char:EOLhyphen"/>ſciencious uſe of the means, both publick and private, ſhe did thrive and grow in Grace and in the knowledge of our Lord and Saviour Jeſus Chriſt, as ſhe increaſed and grew in Dayes and Years: and therewith alſo learned and ex<g ref="char:EOLhyphen"/>erciſed all parts of Huſwifry, which might fit her for the Government of a Family, wen God ſhould call her thereunto.</p>
+            <p>
+               <note place="margin">Her Marri<g ref="char:EOLhyphen"/>age.</note>
+               <hi>February</hi> 2, <hi>Anno Chriſti,</hi> 1625. Which was the ſame Day on which K. <hi>Charles</hi> the firſt was Crowned, ſhe was, with the conſent of Parents on both ſides, married to Mr. <hi>Sa. Clarke,</hi> who at that time was Miniſter at <hi>Shotwick,</hi> four miles beyond <hi>Weſt-Cheſter,</hi>
+               <pb n="13" facs="tcp:171238:7"/> who looked upon this Match as the greateſt outward tem<g ref="char:EOLhyphen"/>poral Bleſſing that ever God beſtowed upon him; whereby he could experimentially ſay, That a <hi>Prudent Wife is the Gift of God:</hi> And that in the enjoyment of her, he enjoyed more Mercies then he could well enumerate. But to de<g ref="char:EOLhyphen"/>ſcend to particulars, and to take notice of ſome of thoſe virtues and Graces where<g ref="char:EOLhyphen"/>with God had beautified; and adorned her Soul.</p>
+            <p>Firſt her Piety was ſignal and exemplary from her firſt Converſion to the Hour of her Death:<note place="margin">Her Piety.</note> Her life was not ſtained with any ſcandalous Sin, which might be a blemiſh, either to her Perſon, Profeſſi<g ref="char:EOLhyphen"/>on, or Relations. She was a conſtant, and diligent atten<g ref="char:EOLhyphen"/>der upon the Publick Miniſtry
+<pb n="14" facs="tcp:171238:8"/> of Gods Holy Word; And when ſhe lived where ſhe had the opportunity of hearing Lectures in the Week Day, ſhe made choice to attend upon thoſe who were moſt plain, practical, and powerful Preachers, from whoſe Ser<g ref="char:EOLhyphen"/>mons, and Gods Bleſſing up<g ref="char:EOLhyphen"/>on them, ſhe always ſucked ſome ſpiritual nouriſhment and came home refreſhed from them. And when Days of Humiliation, or Thankſ<g ref="char:EOLhyphen"/>giving came, ſhe never failed to make one among Gods People in the Celebration of them.</p>
+            <p>
+               <note place="margin">Sabbaths Sanctified.</note>The Lords Days ſhe care<g ref="char:EOLhyphen"/>fully Sanctified, both in Pub<g ref="char:EOLhyphen"/>lick and in Private; riſing ear<g ref="char:EOLhyphen"/>lier upon them then upon o<g ref="char:EOLhyphen"/>ther's, eſpecially when ſhe had many young Children about her, that ſo ſhe might have
+<pb n="15" facs="tcp:171238:8"/> opportunity, as well for ſe<g ref="char:EOLhyphen"/>cret, as for Family Duties, before ſhe was called away to the Publick. She was like un<g ref="char:EOLhyphen"/>to <hi>Davids</hi> Door keeper, One of the firſt in and laſt out of Gods Houſe. Her conſtant Geſture at Prayer was Knee<g ref="char:EOLhyphen"/>ling, thinking that ſhe could not be too humble before God. Her uſual manner was to write Sermons to prevent drowſineſs and diſtractions, and to help Memory, whereof ſhe hath left many Volumes, and her Practice was to make good uſe of them, by frequent reading and meditating upon them; And if at any time ſhe was caſt into ſuch Places, and Company as were a hinde<g ref="char:EOLhyphen"/>rance unto her in the ſtrict Sanctification of this Holy Day, it was a grief and burden to her.</p>
+            <pb n="16" facs="tcp:171238:9"/>
+            <p>
+               <note place="margin">Scriptures read.</note>There was no Day that paſſed over her head (except Sickneſs, or ſome other una<g ref="char:EOLhyphen"/>voydable neceſſity hindred) wherein ſhe did not read ſome portions of the Sacred Scrip<g ref="char:EOLhyphen"/>tures, both in the <hi>Old,</hi> and <hi>New Teſtament,</hi> and of the Pſalms; and in Reading ſhe took ſpecial notice of ſuch paſſages as moſt concerned her ſelf. She was frequent, and conſtant in Secret Prayer, and Meditation. She alſo read much in other good Books, eſpecially, in the works of thoſe Eminent, and excellent Divines, Mr. <hi>Ambroſe,</hi> and Mr. <hi>Reyner:</hi> and in reading of them ſhe uſed to tranſcribe ſuch paſſages as moſt warmed her Heart.</p>
+            <p>She never neglected any opportunity of receiving the Sacrament of the <hi>Lords Sup<g ref="char:EOLhyphen"/>per,</hi>
+               <note place="margin">Sacra<g ref="char:EOLhyphen"/>ment pre<g ref="char:EOLhyphen"/>paration.</note>
+               <pb n="17" facs="tcp:171238:9"/> and before her coming to it, was very ſtrict, and ſe<g ref="char:EOLhyphen"/>rious in the Duty of <hi>Self-Exa<g ref="char:EOLhyphen"/>mination,</hi> and for her furthe<g ref="char:EOLhyphen"/>rance therein, at thoſe times ſhe read ſome of thoſe Books that treated upon that ſubject. And the Fruits of her holineſs manifeſted themſelves in the exerciſe of thoſe Graces which God required of her. She was not a Wordy, but a Real Chriſtian: A true <hi>Iſra<g ref="char:EOLhyphen"/>elite</hi> in whom was no guile. Her endeavour was to yield univerſal, conſtant, cheerful, and ſyncere Obedience to all Gods Commandments, and wherein ſhe failed, and came ſhort, it was her grief, and Burden. Her Meditations up<g ref="char:EOLhyphen"/>on what ſhe heard and read were frequent: And her Heart having <hi>indited a good matter, her Tongue was as the Pen of a
+<pb n="18" facs="tcp:171238:10"/> ready Writer,</hi> taking Oppor<g ref="char:EOLhyphen"/>tunities to ſpeak to the Edifi<g ref="char:EOLhyphen"/>cation of thoſe with whom ſhe converſed.</p>
+            <p>She filled every Relation with the Exerciſe of ſuch Graces, and Duties as were ſuitable thereunto, knowing that where Relative Duties are neglected, and not made con<g ref="char:EOLhyphen"/>ſcience of, there alſo our pre<g ref="char:EOLhyphen"/>tended Religion is in Vain.</p>
+            <p>
+               <note place="margin">A good Wife.</note>Firſt: As a Wife: She was ſingular, and very Exem<g ref="char:EOLhyphen"/>plary in that reverence and o<g ref="char:EOLhyphen"/>bedience which ſhe yeilded to her Huſband, both in Words, and Deeds. She never roſe from the Table, even when they were alone, but ſhe made courteſie. She never drank to him without bowing. His word was a Law unto her: She often denyed her ſelf to gratify him: And when in her
+<pb n="19" facs="tcp:171238:10"/> ſickneſs, and weakneſs he mentioned her Caſe in parti<g ref="char:EOLhyphen"/>cular unto God in his Prayers, the Duty being ended, ſhe would make him courteſie, and thank him. In caſe of his abſence ſhe would pray with her Famliy Morning, and E<g ref="char:EOLhyphen"/>vening: The like ſhe would do in his preſence, in caſe of his Sickneſs, and inability to perform the Duty himſelf. Her Modeſty, and Chaſtity were rare, and remarkable: But fitter to be conceived by thoſe which know what be<g ref="char:EOLhyphen"/>long, to them, then to be ex<g ref="char:EOLhyphen"/>preſſed in Words. For there is a conjugal, as well as a Vir<g ref="char:EOLhyphen"/>ginal, and Vidual Chaſtity.</p>
+            <p>In Caſe of her Huſbands Sickneſs, ſhe was a tender, di<g ref="char:EOLhyphen"/>ligent, and painful Nurſe a<g ref="char:EOLhyphen"/>bout him; Skilful, and care<g ref="char:EOLhyphen"/>ful in making him Broths,
+<pb n="20" facs="tcp:171238:11"/> and what elſe was needful for him. If at any time ſhe ſaw him in Paſſion, with ſweet and gentle words ſhe would mollify and moderate it. She was often a Spur, but never a Bridle to him in thoſe things which were good.</p>
+            <p>She was alwayes well plea<g ref="char:EOLhyphen"/>ſed with ſuch Habitations, as (in their many removes) he provided for her; And with ſuch Apparrel, and Diet as his means (which was ſome<g ref="char:EOLhyphen"/>times ſhort) would allow. She never grutched, nor grum<g ref="char:EOLhyphen"/>bled at any of thoſe Diſpenſa<g ref="char:EOLhyphen"/>tions which Gods Al-wiſe Providence carved out unto them.</p>
+            <p>
+               <note place="margin">As a Mo<g ref="char:EOLhyphen"/>ther.</note>Secondly, As a Mother to her Children (whereof God gave her nine, four Sons, and five Daughters) ſhe nouriſhed them all with her own
+<pb n="21" facs="tcp:171238:11"/> Breaſts; was very handy and handſome about them in their minority; Kept them ſweet and cleanly; In neat and mo<g ref="char:EOLhyphen"/>deſt Habits; Knew how to order them both in Health and Sickneſs. She loved them dearly without fondneſs; Was careful to give them Nurture as well as Nouriſhment, not ſparing the Rod when there was juſt occaſion. And as ſoon as they were capable, ſhe was vigilant and diligent to ſeaſon their tender years with Grace and Virtue, by inſtilling into them the firſt grounds, and Principles of Religion; And as they grew up, ſhe did more freely diſcover her tender Af<g ref="char:EOLhyphen"/>fections to them, by Inſtructi<g ref="char:EOLhyphen"/>on, advice, and good Counſel as there was occaſion; And when they were diſpoſed of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>broad, by her gracious let<g ref="char:EOLhyphen"/>ters,
+<pb n="22" facs="tcp:171238:12"/> and hearty Inſtructions at their meetings, ſhe labou<g ref="char:EOLhyphen"/>red to build them up in grace and godlineſs: And God was pleaſed to let her ſee (to her great Joy and Comfort) the fruit of her Prayers, and pains in keeping them from ſcanda<g ref="char:EOLhyphen"/>lous Courſes in theſe corrupti<g ref="char:EOLhyphen"/>ons, and in working Grace in moſt of their Hearts. When they were married, and had Children, ſhe was frequently making one thing or other for them.</p>
+            <p>
+               <note place="margin">As a Miſtreſs.</note>Thirdly. As a Miſtreſs to her Maids: She was careful (ſo far as ſhe could) to bring ſuch as were Religious at leaſt, ſeemingly, into her Fami<g ref="char:EOLhyphen"/>ly; And having occaſion to be much in their Company ſhe would take all occaſions and opportunities to manifeſt her love and care of their
+<pb n="23" facs="tcp:171238:12"/> Souls, by frequent dropping in good Counſel, and whole<g ref="char:EOLhyphen"/>ſome Inſtructions; By Cha<g ref="char:EOLhyphen"/>techiſing; Enquiring what they remembred of the Ser<g ref="char:EOLhyphen"/>mons they heard, Reading her Notes to them; Encou<g ref="char:EOLhyphen"/>raging them in what was good, and with the Spirit of meekneſs blaming them for what was evil. And for Huſ<g ref="char:EOLhyphen"/>wifery, and Houſhold Affairs, ſhe inſtructed their Ignorance, commended and incouraged what they did well, and her ſelf (being of an active, and ſtirring diſpoſition, and ha<g ref="char:EOLhyphen"/>ving her hand in moſt buſi<g ref="char:EOLhyphen"/>neſſes) ſet them a Pattern, and gave them an Example how to order the ſame. She was careful (ſo far as poſſi<g ref="char:EOLhyphen"/>bly ſhe could) to prevent all ſpoil, and to ſee that they did not eat the Bread of Idleneſs.</p>
+            <pb n="24" facs="tcp:171238:13"/>
+            <p>
+               <note place="margin">As a Friend.</note>Towards her friends, and her own, and her Huſbands Relations ſhe was courteous and amiable in her deport<g ref="char:EOLhyphen"/>ment, free and hearty in their entertainment. She would have plenty without want, and competency without ſu<g ref="char:EOLhyphen"/>perfluity; And alſo neatly and well ordered, that none which came to her Table (whereof ſome were Perſons of Honor and Quality) but commended her Cookery, and were well pleaſed with their entertain<g ref="char:EOLhyphen"/>ment.</p>
+            <p>In her Houſhold Furniture ſhe loved not to want, nor de<g ref="char:EOLhyphen"/>ſired more then was needful. It was,<note place="margin">Her Houſ<g ref="char:EOLhyphen"/>wifery.</note> though not coſtly, yet cleanly, and ſhe was frequent in repairing and mending de<g ref="char:EOLhyphen"/>cays, and what was amiſs, both in Linnens, and Wool<g ref="char:EOLhyphen"/>lens.</p>
+            <pb n="25" facs="tcp:171238:13"/>
+            <p>For her Apparrel,<note place="margin">Her Habit</note> ſhe was never willing to have that which was coſtly for the mat<g ref="char:EOLhyphen"/>ter, or gairiſh for the manner: Rather under then above her Rank. For the Faſhion of it, it was grave and Exemplary, without Newfangledneſs and Levity. She followed <hi>Peters</hi> directions which he gave to Chriſtian Women in his time [1. <hi>Pet.</hi> 3.3. &amp;c.] <hi>whoſe a<g ref="char:EOLhyphen"/>dorning, let it not be that out<g ref="char:EOLhyphen"/>ward adorning of plaiting their Hair, and of wearing of Gold, or of putting on of Apparel. But let it be the hidden man of the Heart, in that which is not cor<g ref="char:EOLhyphen"/>ruptible, even the Ornament of a meek and quiet Spirit, which is in the ſight of God of great price. For after this manner in old time, the holy Women who truſted in God adorned them<g ref="char:EOLhyphen"/>ſelves being in ſubjection unto
+<pb n="26" facs="tcp:171238:14"/> their own Huſbands.</hi>
+            </p>
+            <p>And whatſoever Apparel ſhe had, ſhe was careful to keep it from ſtains, and rends, and ſo ſoon as any thing was amiſs preſently to amend it, inſomuch as ſhe made it laſt long, and yet it was always whole aad neat. All her own, and Husbands linnens, ſhe made her ſelf, and much of her other Apparel: And at lei<g ref="char:EOLhyphen"/>ſure times ſhe imployed her ſelf in knitting Stockings for her ſelf and Grand-Children; and was as careful, and han<g ref="char:EOLhyphen"/>dy in mending her Husbands Cloaths, as her own.</p>
+            <p>
+               <note place="margin">Her Chari<g ref="char:EOLhyphen"/>ty.</note>She was very Charitable to the Poor where ever ſhe lived, according to that Eſtate wherewith God had entruſted her. She was ready to relieve ſuch as were Objects of Cha<g ref="char:EOLhyphen"/>rity, with Meat, or Drink,
+<pb n="27" facs="tcp:171238:14"/> and to lend them Mony, and to miniſter ſome <hi>Phyſical</hi> things (whereof her Cloſet was never empty) according as their neceſſities required.</p>
+            <p>She had a very melting Heart, and truly Sympathized<note place="margin">Her Sym<g ref="char:EOLhyphen"/>pathy.</note> with the Church and People of God whether at home or abroad in all their ſufferings, and rejoyced in their Proſpe<g ref="char:EOLhyphen"/>rity. She was much affected with, and afflicted for that great loſs which the Church of Chriſt had, when ſo many able, Godly, faithful, and painful Miniſters were eject<g ref="char:EOLhyphen"/>ed; not thruſt forth into, but thruſt out from labouring in Gods Harveſt; wherein her Husband, and two Sons were co-ſufferers, to the loſs of their livelihoods; yet the loſs of their Liberty lay nearer to her Heart, and was a far greater
+<pb n="28" facs="tcp:171238:15"/> Grief to her then the out<g ref="char:EOLhyphen"/>ward wants they were expo<g ref="char:EOLhyphen"/>ſed to.</p>
+            <p>
+               <note place="margin">Her Hu<g ref="char:EOLhyphen"/>mility.</note>Her Humility was not infe<g ref="char:EOLhyphen"/>rior to her other Graces. She had alwayes a very low eſteem of her ſelf, and was ready to prefer others before her ſelf, and would not take it ill when her inferiors were ſet above her: She well remem<g ref="char:EOLhyphen"/>bred the Apoſtle <hi>Peters</hi> charge. <hi>All of you be ſubject one to another, and be cloathed with Humility. For God reſiſteth the Proud, and giveth Grace to the Humble.</hi> And that of St. <hi>Paul, Rom.</hi> 12.10. <hi>In honour prefer one another.</hi>
+            </p>
+            <p>
+               <note place="margin">Her Love to God, &amp; Man.</note>Her Love to God, to his Ordinances, and to his Chil<g ref="char:EOLhyphen"/>dren was hearty, and without Diſſimulation. <hi>She abhorred that which was evil, and clave to that which was good.</hi> She
+<pb n="29" facs="tcp:171238:15"/> was of ſo ſweet and meek a diſpoſition that ſhe never uſed to ſpeak evil of any, but was ever prone to forgive and for<g ref="char:EOLhyphen"/>get wrongs.</p>
+            <p>She was very prudent in managing her Houſhold affairs to the beſt advantage.<note place="margin">Her Pru<g ref="char:EOLhyphen"/>dence.</note> She would have diverſe Diſhes of Meat with little coſt; yet ſo dreſſed and ordered as made them grateful and pleaſing un<g ref="char:EOLhyphen"/>to all: When they were alone, ſhe had ſuch variety of Diſhes and Dreſſes as prevented nau<g ref="char:EOLhyphen"/>ſeouſneſs. She was careful to ſee that nothing was loſt or ſpoiled. By her wiſe and frugal managing her Houſhold, though her husband had ne<g ref="char:EOLhyphen"/>ver much coming in, yet at the years end he could al<g ref="char:EOLhyphen"/>wayes ſave ſomething: So that <hi>her price to him was far above Rubies: His Heart truſt<g ref="char:EOLhyphen"/>ed
+<pb n="30" facs="tcp:171238:16"/> in her.</hi> For ſhe <hi>did him good, and not evil all the Dayes of her Life. Prov.</hi> 31.10.11, 12.</p>
+            <p>
+               <note place="margin">Her A<g ref="char:EOLhyphen"/>ctivity.</note>In her Younger Dayes ſhe was healthful; Of a cheerful and active Spirit, and abhor<g ref="char:EOLhyphen"/>ring Idleneſs; She would have her Hand in every buſineſs. In her Old Age, though ſhe was crazie, yet whilſt ſhe could ſtand, ſhe would be about one kind of work or other.<note place="margin">Her Patience.</note> She bore her weakneſs and Affli<g ref="char:EOLhyphen"/>ctions with much Patience and holy ſubmiſſion to the will and good pleaſure of God, ſhe was ſo uniform in the frame of her Spirit, and ſo maintained her Peace with God through her Holy and humble walking, that when Death, many times in her ſick<g ref="char:EOLhyphen"/>neſs, threatned to ſeize upon her, She feared it not, as know<g ref="char:EOLhyphen"/>ing
+<pb n="31" facs="tcp:171238:16"/> that it would be gain and advantage to her: Concerning which hear what ſhe her ſelf left in writing which was found after her Deceaſe.</p>
+            <p>
+               <q rend="margDblQuotes">In my younger Dayes (ſaith ſhe) my ſpiritual Af<g ref="char:EOLhyphen"/>flictions, and inward trou<g ref="char:EOLhyphen"/>bles continued long before I could attain to any aſſu<g ref="char:EOLhyphen"/>rance of my Salvation: But of late years it hath pleaſed God of his infinite Mercy, and Free Grace to give me more Aſſurance of his un<g ref="char:EOLhyphen"/>changeable Love to me through Faith in his Rich and free Promiſes of Life,<note place="margin">Her Faith.</note> and Salvation, through <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> who is pretious to my Soul, and who is the Author and finiſher of my Faith; God bleſſed for e<g ref="char:EOLhyphen"/>vermore: To whom be Praiſe and Glory World
+<pb n="32" facs="tcp:171238:17"/> without end <hi>Amen.</hi>
+               </q>
+            </p>
+            <p>
+               <note place="margin">Her amia<g ref="char:EOLhyphen"/>bleneſs.</note>In her converſe with her Friends <hi>She opened her Mouth with Wiſdom, and in her Tongue was the Law of Kindneſs (Prov.</hi> 31.26.) which made her Company grateful unto all, and burdenſome, or underva<g ref="char:EOLhyphen"/>lued by none.</p>
+            <p>Divers years before her Death, upon catching Cold, ſhe had many fits of Sickneſs, and weakneſs, and ſome of them were Violent as brought her neer unto Death; Yet the Lord had mercy upon her Husband and Family in rai<g ref="char:EOLhyphen"/>ſing her up again almoſt be<g ref="char:EOLhyphen"/>yond hopes, and expectation: And ſhe was alwayes a Gai<g ref="char:EOLhyphen"/>ner by her Afflictions,<note place="margin">Afflicti<g ref="char:EOLhyphen"/>ons ſancti<g ref="char:EOLhyphen"/>fied.</note> God making good that Promiſe to her, <hi>Rom.</hi> 8.28. <hi>All things ſhall work together for good to them that love God, To them
+<pb n="33" facs="tcp:171238:17"/> who are Called according to his purpoſe.</hi> For after thoſe fits ſhe walked more humbly, ho<g ref="char:EOLhyphen"/>lily, fruitfully, and faithful<g ref="char:EOLhyphen"/>ly, both in her General, and particular Calling, as one that waited daily for the ap<g ref="char:EOLhyphen"/>pearing of her Lord, and Ma<g ref="char:EOLhyphen"/>ſter. The Winter before her Death, ſhe enjoyed better Health then ſhe had done for ſome Winters before.</p>
+            <p>
+               <hi>May</hi> the 25th. <hi>Anno Chriſti,</hi> 1675. Some Friends came from <hi>London</hi> to dine with her, and that morning (according to her uſual cuſtom in ſuch Caſes) She was careful, and buſy in providing for their kind intertainment:<note place="margin">Her laſt Sickneſs.</note> But it pleaſed God whilſt they were at Dinner to ſtrike her with a kind of Shivering, which made her look paler then or<g ref="char:EOLhyphen"/>dinary, and after Dinner her
+<pb n="34" facs="tcp:171238:18"/> Diſtemper continued, ſo that ſhe was ſoon confined to her Chamber, and not long after, for the moſt part to her Bed. But herein God ſhewed her great mercy, and had reſpect to her weakneſs, in that, du<g ref="char:EOLhyphen"/>ring all the time of her lan<g ref="char:EOLhyphen"/>guiſhing ſhe was free from Sickneſs, and pain, only ſome<g ref="char:EOLhyphen"/>times ſhe was troubled with ſome Stitches,<note place="margin">Gods Mercy.</note> which yet were tollerable, not violent: She was alſo troubled with ſome Vapours which made her Breath very ſhort; Yet had ſhe a pretty good Stomach, and ſhe reliſhed her Food well till about two Days before her Death; But then, though ſhe did eat, yet ſhe ſound lit<g ref="char:EOLhyphen"/>tle taſt in her Meat. Her ſleep was pretty good, and alwayes very quiet. She was never ill either after Food or Sleep.
+<pb n="35" facs="tcp:171238:18"/> Only two Dayes before her Departure ſhe ſlept little, by reaſon of the continual rut<g ref="char:EOLhyphen"/>ling of Flegm in her Throat, when ſhe wanted ſtrength to expectorate.</p>
+            <p>As for the State of her Soul during all the time of her ſick<g ref="char:EOLhyphen"/>neſs, ſhe enjoyed conſtant Peace and Serenity, and had (through Gods Mercy) much Joy, and Peace, by believing; Satan (that Roaring Lion) who uſes to be moſt ſtrong when we are moſt weak be<g ref="char:EOLhyphen"/>ing ſo chained up by God that he had no power to mo<g ref="char:EOLhyphen"/>leſt her. She often cryed out <hi>Hold out Faith and Patience:</hi> She told her neareſt Relati<g ref="char:EOLhyphen"/>on, when ſhe ſaw him mour<g ref="char:EOLhyphen"/>ning over her, that ſhe was going to be joyned to a Better Husband.</p>
+            <p>Her youngeſt Son, taking
+<pb n="36" facs="tcp:171238:19"/> his leave of her the Day be<g ref="char:EOLhyphen"/>fore her Death, ſhe gave him much Heavenly counſel for the good of his Soul, and Bleſſed him, and all his, as ſhe did the reſt of her Chil<g ref="char:EOLhyphen"/>dren and Grand-Children. She earneſtly deſired to be Diſſol<g ref="char:EOLhyphen"/>ved, and breathed after a ful<g ref="char:EOLhyphen"/>ler enjoyment of <hi>Jeſus Chriſt,</hi> which ſhe accounted <hi>beſt of all:</hi> She would ſomtimes ſay, <hi>that it was a hard thing to Dye:</hi> And <hi>This is a hard work.</hi> Her Underſtanding, Memory, and Speech continued till within two Minutes of Death; And a little before, her Daughter ſpeaking to her of <hi>Jeſus Chriſt,</hi> She replyed, <hi>My God and my Lord:</hi> And ſo <hi>June</hi> the 21, about five a Clock in the morning, She fell aſleep, ex<g ref="char:EOLhyphen"/>changing this Life for a bet<g ref="char:EOLhyphen"/>ter, without any alteration
+<pb n="37" facs="tcp:171238:19"/> in her Countenance, but only that her colour was gone. She cloſed up her Eyes her ſelf, as who ſhould ſay,<note place="margin">Death.</note> 
+               <hi>It is but winking, and I ſhall be in Heaven.</hi> She <hi>changed her Place, but not her Company.</hi> She ſickned <hi>May</hi> the 25th. <hi>Anno Chriſti,</hi> 1675. She con<g ref="char:EOLhyphen"/>cluded her Dayes <hi>June</hi> the Twenty Firſt, being <hi>Munday,</hi> about five a Clock in the Mor<g ref="char:EOLhyphen"/>ning, when having ended her laſt <hi>Sabbath</hi> upon Earth, ſhe began to celebrate an Ever<g ref="char:EOLhyphen"/>laſting <hi>Sabbath</hi> in Heaven. She was Aged Seventy three years and about four Months, and had been married almoſt Fifty years.</p>
+            <p>Thus did this Holy Wo<g ref="char:EOLhyphen"/>man wear out, not ruſt out: Burn out, was not blown out: Yea, ſhe flamed, not ſmothered out, ſhe ſerved
+<pb n="38" facs="tcp:171238:20"/> God in her Generation, and then retired into that Place where is Health without Sick<g ref="char:EOLhyphen"/>neſs: Day without Night <g ref="char:punc">▪</g> Plenty without Famine: Rich<g ref="char:EOLhyphen"/>es without Poverty: Mirth without mourning: Singing without ſighing: Life with<g ref="char:EOLhyphen"/>out Death: And theſe, with infinite more to all Eternity. There is unſpotted Chaſtity: Unſtained Honor: Unparal<g ref="char:EOLhyphen"/>led Beauty. There is the Tree of life in the midſt of this <hi>Paradiſe.</hi> There is the River that waters the Garden. There is the Vine flouriſhing, and the Pomgranate budding: There is the Banqueting-Houſe where are all thoſe De<g ref="char:EOLhyphen"/>licacies, and Rarities where<g ref="char:EOLhyphen"/>with God himſelf is delighted. There ſhall the Saints be a<g ref="char:EOLhyphen"/>dorned, as a Bride, with rare Pearls, and ſparkling Dia<g ref="char:EOLunhyphen"/>monds
+<pb n="39" facs="tcp:171238:20"/> of Glory. A Glory fitter to be Believed, then poſ<g ref="char:EOLhyphen"/>ſible to be Diſcourſed. An <hi>Ex<g ref="char:EOLhyphen"/>ceeding, Exceſſive, Eternal weight of Glory</hi> (2 <hi>Cor.</hi> 4.17.) Even ſuch a weight, as if the Body were not upheld by the Power of God, it were impoſ<g ref="char:EOLhyphen"/>ſible but that it ſhould faint under it: as an eminent Divine ſpeaketh.</p>
+            <p>After Mrs. <hi>Clarkes</hi> Deceaſe their was found in her Cabi<g ref="char:EOLhyphen"/>net a Paper which by frequent uſing, was almoſt worn out.<note place="margin">Promiſes to ſtrength<g ref="char:EOLhyphen"/>en her Faith.</note> It contained a Collection of theſe ſeveral Texts of Scrip<g ref="char:EOLhyphen"/>ture which ſhe had recourſe unto in times of Temptation, or Deſertion.</p>
+            <p>Who is among you that feareth the Lord: That obey<g ref="char:EOLhyphen"/>eth the Voice of his Servant: That walketh in darkneſs and hath no Light: Let him truſt
+<pb n="40" facs="tcp:171238:21"/> in the Name of the Lord and ſtay upon his God, <hi>Iſa.</hi> 50.10.</p>
+            <p>For the Name of the Lord is a ſtrong Tower; The Righ<g ref="char:EOLhyphen"/>teous run unto it, and are ſafe. <hi>Prov.</hi> 18.10.</p>
+            <p>Thou wilt keep him in per<g ref="char:EOLhyphen"/>fect Peace, whoſe Mind is ſtai<g ref="char:EOLhyphen"/>ed on thee, becauſe he truſt<g ref="char:EOLhyphen"/>eth in thee, <hi>Iſa.</hi> 26.3.</p>
+            <p>Bleſſed is the Man that ma<g ref="char:EOLhyphen"/>keth the Lord his truſt, <hi>Pſa.</hi> 40.4.</p>
+            <p>Bleſſed is the Man to whom the Lord imputeth not Sin. <hi>Pſal.</hi> 32.2.</p>
+            <p>Though our Hearts may fail us, and our Fleſh may fail us, yet God will never fail us. <hi>Pſa.</hi> 73.26. For he hath ſaid, I will never leave thee nor forſake thee, <hi>Heb.</hi> 13.5.</p>
+            <p>And again: I will be a Fa<g ref="char:EOLhyphen"/>ther unto you, and ye ſhall be
+<pb n="41" facs="tcp:171238:21"/> my Sons and Daughters, ſaith the Lord Almighty. 2 <hi>Cor.</hi> 6.18.</p>
+            <p>I, even I am he that blotteth out thy Tranſgreſſions for mine own ſake, and will not remember thy Sins, <hi>Iſa.</hi> 44.25.</p>
+            <p>My Grace is ſufficient for thee: For my ſtrength is made perfect in weakneſs, 2. <hi>Cor.</hi> 12.9.</p>
+            <p>By Grace you are ſaved through Faith, and that not of your ſelves: <hi>Ephe.</hi> 2.8.</p>
+            <p>I give unto them Eternal Life, and they ſhall not periſh, neither ſhall any man pluck them out of my Hand, <hi>Joh.</hi> 10.28.</p>
+            <p>Who are kept by the Pow<g ref="char:EOLhyphen"/>er of God, through Faith un<g ref="char:EOLhyphen"/>to Salvation. 1. <hi>Pet.</hi> 1.5.</p>
+            <p>The Foundation of God ſtandeth ſure, having this
+<pb n="42" facs="tcp:171238:22"/> Seal; The Lord knoweth who are his, 2. <hi>Tim.</hi> 2.19.</p>
+            <p>There is therefore now no condemnation to them which are in <hi>Chriſt Jeſus,</hi> who walk, not after the Fleſh, but after the Spirit. <hi>Rom.</hi> 8.1.</p>
+            <p>
+               <hi>Chriſt</hi> is the end of the Law for Righteouſneſs to every one that believeth. <hi>Rom.</hi> 4, 10.</p>
+            <p>It is God that juſtifieth; who is he that condemneth? <hi>Rom.</hi> 8.33.34.</p>
+            <p>The promiſe is to you, and to your Children, and to all that are afar off; Even as many as the Lord our God ſhall call, <hi>Act.</hi> 2.39.</p>
+            <p>The Gifts, and Calling of God are without Repentance<g ref="char:punc">▪</g> 
+               <hi>Rom.</hi> 11.29.</p>
+            <p>Theſe Texts of Scripture having been as ſo many Cor<g ref="char:EOLhyphen"/>dials unto her in Times of
+<pb n="43" facs="tcp:171238:22"/> Temptation, it is hoped that they may prove ſo to others, and therefore for their ſakes they are here ſet down. And hereby it appears that ſhe was not without ſome ſhakings, but, through Gods Mercy, they were ſuch as made her root the faſter: And by her prudent, and ſeaſonable hol<g ref="char:EOLhyphen"/>ding forth the Shield of Faith, and the Sword of the Spirit, ſhe became more than a Con<g ref="char:EOLhyphen"/>querour, through him that had loved her.</p>
+            <p>In another little Book, which was found after her Death, ſhe gives this account of herſelf and of Gods graci<g ref="char:EOLhyphen"/>ous dealing with her.</p>
+            <p>From the beginning <hi>(writes ſhe)</hi> of Gods ſhewing me Mercy in my Converſion.</p>
+            <p>I here ſet down Gods gra<g ref="char:EOLhyphen"/>cious dealings with me,<note place="margin">Her Con<g ref="char:EOLhyphen"/>verſion</note> not
+<pb n="44" facs="tcp:171238:23"/> for mine own Praiſe, but for the Glory of God, and to ſtir up my Heart unto true Thankfulneſs for ſuch invalu<g ref="char:EOLhyphen"/>able Mercies. And then ſhe ſet down the time, manner, and means of her Converſion: And afterwards proceeds thus.</p>
+            <p>
+               <hi>What have been my Experi<g ref="char:EOLhyphen"/>ences of Gods gracious dealings with me at ſeveral times under Afflictions:</hi> As</p>
+            <q>
+               <p>Firſt when Perſonal Af<g ref="char:EOLhyphen"/>flictions have lain upon me, in regard of Bodily Sick<g ref="char:EOLhyphen"/>neſs or Spiritual Diſtem<g ref="char:EOLhyphen"/>pers.</p>
+               <p>Secondly. Or, Family Afflictions, when God hath taken away my dear Chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>Thirdly: Or, when I have been under fears that God would take away my
+<pb n="45" facs="tcp:171238:23"/> dear Husband, by ſome dangerous Sickneſs which he lay under.</p>
+               <p>Fourthly, Or when I have been under great fears in the time of our Civil Wars.</p>
+               <p>Fifthly, Or when I have been under ſpiritual Deſerti<g ref="char:EOLhyphen"/>on, by Gods hiding his Face, and Favour from me. Or by reaſon of weakneſs, and wants in Grace: Or by reaſon of ſtrong, and pre<g ref="char:EOLhyphen"/>vailing Corruptions. Or by reaſon of Satans Temptati<g ref="char:EOLhyphen"/>ons: In all which Caſes ſhe left a memorial of Gods gracious diſpenſations to<g ref="char:EOLhyphen"/>wards her. I ſhall ſet down only a few of them.</p>
+               <p>It pleaſed God (ſaith ſhe) for many years, to keep me (for the moſt part) in a ſad and diſconſolate eſtate, and
+<pb n="46" facs="tcp:171238:24"/> condition, not cleerly Evi<g ref="char:EOLhyphen"/>dencing the certain Aſſu<g ref="char:EOLhyphen"/>rance of his Love to my Soul: So that many times I queſtioned whether I was a Child of God or no: Whether I had part in <hi>Chriſt Jeſus</hi> or no: Whether I ſhould e<g ref="char:EOLhyphen"/>ver attain to Life and Sal<g ref="char:EOLhyphen"/>vation or no: And this made me walk with a droo<g ref="char:EOLhyphen"/>ping, and diſconſolate Spi<g ref="char:EOLhyphen"/>rit, ſo that I could take no true comfort in any thing: But though <hi>heavineſs endu<g ref="char:EOLhyphen"/>red for a Night, Yet joy came in the Morning,</hi> when the Lord cauſed the Light of his Countenance to ſhine upon me, which was bet<g ref="char:EOLhyphen"/>ter then Life.</p>
+               <p>It pleaſed God upon the Death of my youngeſt Child, that it lay very hea<g ref="char:EOLhyphen"/>vy upon my Spirit, inſo<g ref="char:EOLhyphen"/>much
+<pb n="47" facs="tcp:171238:24"/> as I was brought oft upon my Knees to beg ſup<g ref="char:EOLhyphen"/>port from God and to crave his Grace and aſſiſtance that I might not break out to ſpeak, or act any thing whereby Gods Name might be diſhonoured, or the Goſpel diſcredited: And that he would be pleaſed to make up this outward loſs, with ſome more durable, and ſpiritual Comforts. And I found a ſeaſonable, gracious, and ſpeedy an<g ref="char:EOLhyphen"/>ſwer to theſe my Requeſts. For though I lay long un<g ref="char:EOLhyphen"/>der the burden of that loſs, yet in this time did the Lord ſweetly manifeſt his ſpecial Love to my Soul, aſ<g ref="char:EOLhyphen"/>ſuring me that he was my gracious and reconciled Father in <hi>Chriſt;</hi> whereby my Love to him was much
+<pb n="48" facs="tcp:171238:25"/> encreaſed, and even infla<g ref="char:EOLhyphen"/>med; So that, by his Grace, it wrought in me more di<g ref="char:EOLhyphen"/>ligence, and carefulneſs to maintain and preſerve theſe Evidences of his Love, and to yield a holy ſubmiſſion unto his Will, as well in ſuf<g ref="char:EOLhyphen"/>fering, as in doing: As alſo by avoiding whatſoever might provoke him to withdraw the Evidences of his Love from me, without the ſenſe whereof I could take little or no comfort in any thing.</p>
+               <p>And furthermore, I bleſs God for it, and ſpeak it to the Praiſe, and Glory of his Rich and Free Grace, My Prayers, and earneſt Deſires have been anſwered, by Gods giving me comfortable Aſ<g ref="char:EOLhyphen"/>ſurance, both from the Te<g ref="char:EOLhyphen"/>ſtimony of his Holy Word,
+<pb n="49" facs="tcp:171238:25"/> and the witneſs of his Bleſ<g ref="char:EOLhyphen"/>ſed Spirit, of my Eternal, and Everlaſting Salvation in, and by <hi>Jeſus Chriſt.</hi> Yet have I not been without fears, and doubtings many times, through want of looking over my Evidences, or by neglecting to keep a narrow watch over my Heart; Or from weakneſs of my Faith, and all through my own default and negli<g ref="char:EOLhyphen"/>gence. The Lord pardon it, and make me more circum<g ref="char:EOLhyphen"/>ſpect for the time to come.</p>
+            </q>
+            <p>By all theſe I have gained this Experience.</p>
+            <q rend="margDblQuotes">
+               <p>Firſt: That God is true and faithful in making good all his Promiſes ſeaſo<g ref="char:EOLhyphen"/>nably unto us: As, That all things ſhall work toge<g ref="char:EOLhyphen"/>ther for our Good. And that God will never fail us,
+<pb n="50" facs="tcp:171238:26"/> nor forſake us, <hi>&amp;c.</hi>
+               </p>
+               <p>Secondly: That it is not in vain to wait upon God, and to ſeek unto him in our Straits, who is mote ready to hear then we are to ask.</p>
+               <p>Thirdly: That I deſire to ſee: Yea, and the Lord hath ſhewed me the vanity, and incertainty of the moſt ſatisfying Comforts that this World can afford, and what an emptineſs there is in them, that ſo I may, and I deſire ſo to do, keep weaned affections towards them and to ſit looſe from them, that I may be ready to part with them, when God calls them from, me or me from them.</p>
+            </q>
+            <p>Again in regard of Bodi<g ref="char:EOLhyphen"/>ly weakneſs and Sickneſs, my <hi>Experiences</hi> have been theſe.</p>
+            <q>
+               <p>Firſt: That as a broken
+<pb n="51" facs="tcp:171238:26"/> Shoulder can bear no Bur<g ref="char:EOLhyphen"/>den; So the leaſt Diſtemper, when the Heart is not in an holy frame and temper is a burden inſupportable. If God hides his Face from us, and withdraws the Evi<g ref="char:EOLhyphen"/>dences of his Love, and de<g ref="char:EOLhyphen"/>nies to aſſiſt us by his ſtrength, we can neither do, nor ſuffer any thing. And on the Contrary, I found by <hi>Experience,</hi> that I could with much cheerfulneſs, ho<g ref="char:EOLhyphen"/>ly ſubmiſſion and willing<g ref="char:EOLhyphen"/>neſs, bear great Diſtempers, when I enjoyed the favour of God in them: So that then I could readily ſay, <hi>Good</hi> is the work of the Lord as well as his <hi>Word.</hi> And, I <hi>will bear the Indignation of the Lord becauſe I have ſinned againſt him. Mich.</hi> 7.9. And, <hi>Though he ſlay me, yet will I
+<pb n="52" facs="tcp:171238:27"/> truſt in him. Job.</hi> 13.15.</p>
+               <p>Secondly, I found by <hi>ex<g ref="char:EOLhyphen"/>perience</hi> alſo, that by my pains and Sickneſs I was the better able to <hi>Sympathize</hi> with, and to pitty and pray for others in the like Caſe.</p>
+               <p>Thirdly, Hereby I lear<g ref="char:EOLhyphen"/>ned the more to prize Health: And that: Firſt, Becauſe in Health we have liberty, and opportunity to enjoy the Publick Ordinan<g ref="char:EOLhyphen"/>ces with others of Gods People, whereby the Graces of Gods People are quick<g ref="char:EOLhyphen"/>ned, ſtrengthened, and en<g ref="char:EOLhyphen"/>creaſed in us which other<g ref="char:EOLhyphen"/>wiſe (by reaſon of our cor<g ref="char:EOLhyphen"/>rupt natures) are apt to grow cold and languiſh, as will our Bodies when they want food.</p>
+               <p>Secondly, Becauſe in Health we injoy the benefit
+<pb n="53" facs="tcp:171238:27"/> and the comfort of ſweet, and quiet ſleep, which much re<g ref="char:EOLhyphen"/>freſhes and cheers, and which commonly we want in Sickneſs.</p>
+               <p>Thirdly, Becauſe in Health we find ſweet ſatis<g ref="char:EOLhyphen"/>fying comfort in the uſe of Gods good Creatures, where<g ref="char:EOLhyphen"/>as in Sickneſs the daintieſt Food is lothſom and trou<g ref="char:EOLhyphen"/>bleſome. The conſideration of theſe things made me the more to prize Health; To be very thankful for it, and the more careful to imploy, and improve Health, and ſtrength to Gods Glory, and the furtherance of mine own Salvation.</p>
+            </q>
+            <p>In regard of Publick Dan<g ref="char:EOLhyphen"/>gers I have had a great deal of <hi>Experience</hi> of Gods goodneſs towards me and mine ſeveral wayes, and at ſeveral times. For</p>
+            <q rend="margDblQuotes">
+               <pb n="54" facs="tcp:171238:28"/>
+               <p>Firſt: When in the be<g ref="char:EOLhyphen"/>ginning of our Civil Wars and diſtractions I was ſome<g ref="char:EOLhyphen"/>times overwhelmed with baſe and diſtruſtful Fears, occaſioned by my not act<g ref="char:EOLhyphen"/>ing Faith upon the Promi<g ref="char:EOLhyphen"/>ſes, and not remembring my former <hi>Experiences,</hi> nor conſidering Gods love, pow<g ref="char:EOLhyphen"/>er, and fidelity to his Chil<g ref="char:EOLhyphen"/>dren, in performing his ſo many gracious Promiſes, made unto them in all e<g ref="char:EOLhyphen"/>ſtates, and conditions, and to me among the reſt: Here upon I reſolved, by Gods Grace and aſſiſtance not to give way to this diſtruſt and diffidence, praying God to aſſiſt me therein, and found more courage then former<g ref="char:EOLhyphen"/>ly, ſo far as I know mine own Heart (though truly the Heart is very deceitful,
+<pb n="55" facs="tcp:171238:28"/> as I have found by ſad expe<g ref="char:EOLhyphen"/>rience) The Lord teach and enable me to rely upon him with more courage and con<g ref="char:EOLhyphen"/>ſtancy, and more to live by Faith upon his Promiſes then formerly I have done.</p>
+               <p>Indeed I have been apt to fall into new fears upon ap<g ref="char:EOLhyphen"/>proaching dangers; Yet up<g ref="char:EOLhyphen"/>on ſucceſſes, and glorious Deliverances, I have oft re<g ref="char:EOLhyphen"/>ſolved never to diſtruſt God again, and yet my naughty Heart hath deceived me, and made me ready to faint. But this I found by <hi>Experience,</hi> to the Praiſe of my Gods Free Grace, that as troubles have abounded, my conſo<g ref="char:EOLhyphen"/>lations have much more a<g ref="char:EOLhyphen"/>bounded. For God brought ſeaſonably into my mind many pretious Promiſes, which were as ſo many
+<pb n="56" facs="tcp:171238:29"/> ſweet Cordials, which much ſupported and com<g ref="char:EOLhyphen"/>forted my Heart, and up<g ref="char:EOLhyphen"/>held my Spirit, when alſo new ſtorms have ariſen, and unexpected Deliverances have followed, I have, and do reſolve, by Gods Grace, not to diſtruſt him any more. Yea, though more and greater dangers ſhall a<g ref="char:EOLhyphen"/>riſe, yet will I truſt in, and ſtay my ſelf upon him, though (as <hi>Job</hi> ſaid) <hi>he ſhould ſlay me.</hi> The good Lord eſtabliſh my Heart in this good and holy reſoluti<g ref="char:EOLhyphen"/>on, who is able to keep us to the end, and hath Promi<g ref="char:EOLhyphen"/>ſed that he <hi>will preſerve us by his Power, through Faith to the Salvation of our Souls.</hi>
+               </p>
+            </q>
+            <p>In regard of Satans Temp<g ref="char:EOLhyphen"/>tations; Eſpecially concer<g ref="char:EOLhyphen"/>ning
+<pb n="57" facs="tcp:171238:29"/> my coming to the Sacra<g ref="char:EOLhyphen"/>ment of the <hi>Lords Supper,</hi> my <hi>Experiences</hi> have been theſe.</p>
+            <q rend="margDblQuotes">
+               <p>Finding often that I was very unable to fit and pre<g ref="char:EOLhyphen"/>pare my ſelf for a com<g ref="char:EOLhyphen"/>fortable approach to that Sacred Ordinance, I uſed to deſire the Prayers of the Congregation unto God in my behalf, and I uſed the beſt endeavours I could in private, as God enabled me, though I came far ſhort of what was required, and of what I deſired: So that I did truſt, and hope, through Gods mercy, to find a com<g ref="char:EOLhyphen"/>fortable Day of it, and to have it a Sealing Ordinance to my Soul. But on the con<g ref="char:EOLhyphen"/>trary, I found much dead<g ref="char:EOLhyphen"/>neſs, and little ſpiritual taſt, reliſh, and comfort in the uſe of it: So that my Spirit
+<pb n="58" facs="tcp:171238:30"/> was oft much troubled, and caſt down in me; fearing leſt I had ſome ſecret Sin undiſcovered, and unrepen<g ref="char:EOLhyphen"/>ted of, which cauſed the Lord thus to hide his Face from me.</p>
+               <p>But then my gracious God brought this into my mind, that the Lord doth ſometimes afflict us for the exerciſe, and improvement of our Graces, as well as to humble us for our Sins. I alſo conſidered, that as the Lord doth tender great Mercies to us in this Sacra<g ref="char:EOLhyphen"/>ment, renewing his Cove<g ref="char:EOLhyphen"/>nant of Grace, and Sealing unto us the Pardon of our Sins in the Blood of <hi>Chriſt:</hi>
+               </p>
+            </q>
+            <p>So he gives us leave to engage our ſelves (by renewing our Covenant with him) to be<g ref="char:EOLhyphen"/>lieve in him, and to truſt upon
+<pb n="59" facs="tcp:171238:30"/> 
+               <hi>Chriſt</hi> for Life and Salvation: And it pleaſed God to give me Faith to apply this in per<g ref="char:EOLhyphen"/>ticular to my own Soul: And a while after, to ſhew me, and to make good to my Soul that pretious, and comfortable Promiſe, That though <hi>he hide his Face from us for a little moment, yet with Mercy, and loving kindneſs he will return to us again.</hi> This was a won<g ref="char:EOLhyphen"/>derful comfort, and ſupport to my dejected Heart: Bleſſed be the Lord for ever, I deſire to treaſure up theſe <hi>Experien<g ref="char:EOLhyphen"/>ces,</hi> that for the future, I may reſolve in the like caſe to put my whole truſt and confi<g ref="char:EOLhyphen"/>dence in him, that ſo Satan may not entrap me in his Snares through unbelief, but that I may reſiſt <hi>him ſteadfaſt in the Faith:</hi> for I am not al<g ref="char:EOLhyphen"/>together ignorant, of his <hi>De<g ref="char:EOLhyphen"/>vices.</hi>
+               <pb n="60" facs="tcp:171238:31"/> Gods Promiſe is, that <hi>in all theſe things we ſhall be more then Conquerour, through him that hath loved us:</hi> And hath ſaid <hi>that this is the Victory which overcomes the World, e<g ref="char:EOLhyphen"/>ven our Faith.</hi> 1. <hi>Joh.</hi> 5.4.</p>
+            <p>In the year 1669: there came to us the ſad news of the Death of my ſecond Son Mr. <hi>John Clarke,</hi> a godly, faithful, and painful Miniſter ſometimes before ejected out of the Rectory of <hi>Cotgrave</hi> in <hi>Nottingham-Shire,</hi> who died the 18th of <hi>September.</hi>
+            </p>
+            <p>Thus as the Waves of the Sea follow one another, ſo God is pleaſed to exerciſe his Chil<g ref="char:EOLhyphen"/>dren with one Affliction after another. He ſees that whilſt we carry about with us this Body of Sin, we have need of manifold <hi>Trials,</hi> and <hi>Temp<g ref="char:EOLhyphen"/>tations,</hi> as ſaith the Apoſtle.
+<pb n="61" facs="tcp:171238:31"/> 1. <hi>Pet.</hi> 1.6.—<hi>now for a ſea<g ref="char:EOLhyphen"/>ſon ye are in heavineſs (if need be) through manifold Temp<g ref="char:EOLhyphen"/>tations;</hi> to keep us under, and to make us the better to re<g ref="char:EOLhyphen"/>member our ſelves.</p>
+            <p>Indeed it hath been the Lords courſe and dealing with me ever ſince he ſtopped me in the way as I was poſting to Hell, to raiſe up one Afflicti<g ref="char:EOLhyphen"/>on or other, either inward or outward, either from Satan, the World, or from mine own corrupt Heart, and nature, not having Grace and Wiſdom to behave and carry my ſelf as I ought under his various Diſpenſations and Providen<g ref="char:EOLhyphen"/>ces, as appeared at this time by his laying ſo great and grievous an Affliction upon me in taking away ſo dear a Son, from whom I had much Soul-comfort, and ardent Af<g ref="char:EOLhyphen"/>fections,
+<pb n="62" facs="tcp:171238:32"/> which he manifeſted by his fervent Prayers for me, and by his ſpiritual Letters, and Writings to me, wherein he applyed himſelf ſutably to my Comfort in thoſe in<g ref="char:EOLhyphen"/>ward troubles of Heart and Spirit which lay upon me. This cauſed my Grief and Sor<g ref="char:EOLhyphen"/>rows to take the greater hold on me, upon the loſs of one who was ſo uſeful to me: Yet hereby I do not derogate from my Elder Son, from whom I have the like help, and Com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>Upon this ſad occaſion my Grief grew ſo great that I took no pleaſure of any thing in the World: But was ſo overwhelmed with Melan<g ref="char:EOLhyphen"/>choly, and my natural ſtrength was ſo abated, that little Food ſerved my turn, and I judged that I could not
+<pb n="63" facs="tcp:171238:32"/> live long in ſuch a condi<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Hereupon I began to ex<g ref="char:EOLhyphen"/>amin my Heart why it ſhould be ſo with me, and whether carnal and imoderate Affecti<g ref="char:EOLhyphen"/>ons were not the great Cauſe of my trouble, which I much feared; And having uſed ma<g ref="char:EOLhyphen"/>ny Arguments and laid down many reaſons to my ſelf to quiet and moderate my Paſſi<g ref="char:EOLhyphen"/>ons, and yet nothing prevail<g ref="char:EOLhyphen"/>ed to quiet and calm my Heart, and to bow me to the Obedience of his revealed Will: And withal, conſide<g ref="char:EOLhyphen"/>ring that it was God only that could quiet the Heart, and ſet our unruly, and carnal Affections into an holy frame and order, and, That he was a <hi>preſent Help in times of trou<g ref="char:EOLhyphen"/>ble,</hi> I often and earneſtly ſought unto the Lord with
+<pb n="64" facs="tcp:171238:33"/> many Prayers, and Tears<g ref="char:punc">▪</g> beſeeching him to quiet my Heart, and to over power and tame my unruly Affecti<g ref="char:EOLhyphen"/>ons, ſo as to be willing to ſubmit unto him, and to bear his Afflicting Hand patiently and fruitfully, and to be rea<g ref="char:EOLhyphen"/>dy and willing to ſubmit (ei<g ref="char:EOLhyphen"/>ther in doing or ſuffering) to whatſoever he pleaſed to im<g ref="char:EOLhyphen"/>poſe upon me: And to be rea<g ref="char:EOLhyphen"/>dy to part with the beſt out<g ref="char:EOLhyphen"/>ward Comfort I enjoyed whenſoever he ſhould pleaſe to call for the ſame.</p>
+            <p>And it pleaſed God ſeaſo<g ref="char:EOLhyphen"/>nably to hear my Prayer, to regard my Tears, and to grant my Requeſts, by calming, and quieting my Heart, and Spirit, and by giving me much more contentedneſs to ſubmit to his Holy Will, and good Plea<g ref="char:EOLhyphen"/>ſure who is a <hi>God of judg<g ref="char:EOLunhyphen"/>ment</hi>
+               <pb n="65" facs="tcp:171238:33"/> and knows the fitteſt times and ſeaſons to come in with refreſhing comforts and who <hi>waits to be gracious</hi> unto thoſe that truſt in him. Yet ſurely I was not without ma<g ref="char:EOLhyphen"/>ny Temptations in this Hour of Darkneſs from that ſubtile Adverſary who always ſtands at watch to inſinuate and frame his Temptations an<g ref="char:EOLhyphen"/>ſwerable to our Conditions, and like a <hi>Roaring Lyon walks about continually, ſeeking to de<g ref="char:EOLhyphen"/>vour</hi> poor, yet pretious <hi>Souls.</hi> Then I <hi>called upon the Lord in my diſtreſs, and he anſwered me and delivered me.</hi>
+            </p>
+            <p>
+               <hi>Bleſs the Lord O my Soul; and all that is within me Praiſe his Holy Name.</hi> For he hath remembred me in my low and troubled eſtate, becauſe <hi>his Mercy endureth for ever.</hi>
+            </p>
+            <p>Having thus had new ex<g ref="char:EOLhyphen"/>perience
+<pb n="66" facs="tcp:171238:34"/> of Gods readineſs to hear and help when I called upon him; And having found that it is not in vain <hi>to ſeek to, and to depend upon God in all</hi> our Straits, I could not but re<g ref="char:EOLhyphen"/>cord theſe things, that ſo <hi>Eve<g ref="char:EOLhyphen"/>ry one that is Godly may ſeek unto him in a time wherein he may be found,</hi> who is a <hi>preſent help</hi> in times of trouble, and who doth for us <hi>abundantly above what we can ask, or think</hi>
+            </p>
+            <p>The Lord knows that I write theſe things for no other end, but that God may have the Glory, and that others, e<g ref="char:EOLhyphen"/>ſpecially my Relations, may be encouraged to ſeek God in their Straits, and to truſt in him at all times. <hi>Amen.</hi>
+            </p>
+            <p>After her Deceaſe there was alſo found in her Cabinet a Paper with this Superſcrip.</p>
+            <pb n="67" facs="tcp:171238:34"/>
+            <p>My Will and deſire is (with the leave of my Hus<g ref="char:EOLhyphen"/>band) to beſtow upon my Children theſe things as to<g ref="char:EOLhyphen"/>kens of my Motherly Affecti<g ref="char:EOLhyphen"/>ons, and that I may be remem<g ref="char:EOLhyphen"/>bred by them. She began with her Husband, and what ſhe gave to him and all the reſt, were all wrapped up in ſeveral Papers, and each Name endorſed on the outſide to whom it did belong, And then concludes all thus.</p>
+            <p>
+               <hi>But above all, my Prayers unto God are, that he would e<g ref="char:EOLhyphen"/>ſpecially beſtow upon you, all needful Saving Graces, whereby y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u may be enabled to Glorifie his Great Name, in thoſe ſeve<g ref="char:EOLhyphen"/>ral places and callings wherein he hath ſet you. Amen, A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <p>She left alſo Legacies to ſome Poor Neighbours: As
+<pb n="68" facs="tcp:171238:35"/> alſo ten ſhillings to Mr. W. the Miniſter of the place, to buy him a mourning Ring Concluding thus.</p>
+            <p>If God ſhall pleaſe to bring me to my Grave in Peace, let this be the Text at my Fune<g ref="char:EOLhyphen"/>ral, <hi>Epheſ.</hi> 2.8. <hi>For by Grace ye are ſaved, through Faith,</hi> This Scripture I was oft put upon to have recourſe to in times of Temptations, and Deſertion.</p>
+            <p>In an other little Book ſhe had collected ſundry Texts of Scripture, which might mi<g ref="char:EOLhyphen"/>niſter grounds of great Com<g ref="char:EOLhyphen"/>fort againſt Satans Temptati<g ref="char:EOLhyphen"/>ons, whereby he labours, by ſetting before us a black Bill of our Sins, and daily Infir<g ref="char:EOLhyphen"/>mities, and our great inabili<g ref="char:EOLhyphen"/>ties to every Good Duty, to blot out our Evidences, to ſtagger our Faith, and to make
+<pb n="69" facs="tcp:171238:35"/> us go heavily, and drooping in our way to Heaven.</p>
+            <p>
+               <hi>Iſa.</hi> 1.17.18. Ceaſe to do E<g ref="char:EOLhyphen"/>vil, Learn to do well:— And then, Though your Sins be as Scarlet, they ſhall be as white as Snow: Though they be red as Crimſon, they ſhall be as Wool.</p>
+            <p>
+               <hi>Iſa.</hi> 43.25. I, even I am he that blotteth out thy Tranſgreſſions for mine own ſake, and will not remember thy Sins.</p>
+            <p>
+               <hi>Ezek.</hi> 16.6. When I paſſed by thee, and ſaw thee polluted in thy Blood, I ſaid unto thee when thou waſt in thy Blood, <hi>Live:</hi> Yea, I ſaid unto thee when thou waſt in thy Blood, <hi>Live,</hi> V. 8. When I paſſed by thee, and looked upon thee, behold! Thy time was the time of Love: And I ſpread my Skirt over thee,
+<pb n="70" facs="tcp:171238:36"/> and covered thy Nakedneſs Yea, I ſware unto thee, and entred into a Covenant with thee (ſaith the Lord God) and thou becamſt mine. V. 9. Then waſhed I thee with Wa<g ref="char:EOLhyphen"/>ter: Yea, I throughly waſh<g ref="char:EOLhyphen"/>ed away thy Blood from thee, and anointed thee with Oyl.</p>
+            <p>
+               <hi>Ezek.</hi> 36.26, 27. A New Heart will I give you, and a New Spirit will I put within you: And I will take away the Stony Heart out of your Fleſh, and I will give you an Heart of Fleſh. And I will put my Spirit within you, and cauſe you to walk in my Statutes, and ye ſhall keep my Judgments and do them.</p>
+            <p>
+               <hi>Lam.</hi> 3.31. The Lord will not caſt off for ever.</p>
+            <p>
+               <hi>Joel</hi> 3.16. The Lord will be the Hope of his People.</p>
+            <p>1. <hi>Joh.</hi> 1, 9. If we con<g ref="char:EOLhyphen"/>feſs
+<pb n="71" facs="tcp:171238:36"/> our Sins, he is faithful and juſt to forgive us our Sins, and to cleanſe us from all Unrighteouſneſs. He that believes ſhall be ſaved.</p>
+            <p>
+               <hi>Rom.</hi> 8.33, 34. Who ſhall lay any thing to the charge of Gods Elect? It is God that Juſtifies: Who is he that Con<g ref="char:EOLhyphen"/>demneth?</p>
+            <p>2. <hi>Tim.</hi> 2.13. If we believe not (that is, If ſometimes we are not able to act Faith) yet God is faithful: He cannot de<g ref="char:EOLhyphen"/>ny himſelf.</p>
+            <p>
+               <hi>Ephe.</hi> 1.4 According as he hath choſen us in him before the Foundation of the World. V. 5. Having Predeſtinated us to the Adoption of Chil<g ref="char:EOLhyphen"/>dren by <hi>Jeſus Chriſi</hi> to him<g ref="char:EOLhyphen"/>ſelf, according to the good pleaſure of his Will. V. 6. To the Praiſe of the Glory of his Grace, wherein he hath made
+<pb n="72" facs="tcp:171238:37"/> us accepted in the Beloved <hi>v.</hi> 7. In whom we have Re<g ref="char:EOLhyphen"/>demption through his Blood, the forgiveneſs of Sins, through the riches of his Grace.</p>
+            <p>2. <hi>Theſ.</hi> 5.9. For God hath not appointed us unto Wrath: But to obtain Salvation by <hi>Jeſus Chriſt</hi> our Lord.</p>
+            <p>
+               <hi>Joh.</hi> 10.28.29.30 I give unto them Eternal Life, and they ſhall never periſh, nei<g ref="char:EOLhyphen"/>ther ſhall any Man pluck them out of my Hand. My Father which gave them me is great<g ref="char:EOLhyphen"/>er then all, and no Man is a<g ref="char:EOLhyphen"/>ble to pluck them out of my Fathers Hand: I and my Fa<g ref="char:EOLhyphen"/>ther are one.</p>
+            <p>
+               <hi>Iſa.</hi> 50.10. Who is among you that ſearcheth the Lord that obeyeth the voice of his Servant; That walketh in darkneſs, and hath no Light:
+<pb n="73" facs="tcp:171238:37" rendition="simple:additions"/> Let him truſt in the Name of the Lord, and ſtay upon his God.</p>
+            <p>
+               <hi>Pſa.</hi> 32.1, 2. Bleſſed is the Man whoſe iniquity is forgi<g ref="char:EOLhyphen"/>ven, Whoſe Sin is covered. Bleſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d is the Man to whom the Lord imputeth not Sin.</p>
+            <p>
+               <hi>Ephe.</hi> 2.8. For by Grace you are ſaved through Faith, and that not of your ſelves: It is the Gift of God.</p>
+            <p>
+               <hi>Rom.</hi> 6.14. Sin ſhall not have dominion over you: For you are not under the Law, but under Grace.</p>
+            <p>
+               <hi>Rom.</hi> 8.1. There is there<g ref="char:EOLhyphen"/>fore now no Condemnation to them which are in <hi>Chriſt Jeſus</hi> who walk not after the Fleſh, but after the Spirit.</p>
+            <p>
+               <hi>Pſa.</hi> 73.26. Though our Hearts may fail us, and our Fleſh may fail us, yet the Lord will never fail us.</p>
+            <pb n="74" facs="tcp:171238:38"/>
+            <p>
+               <hi>Jer.</hi> 31.3. For he hath lo<g ref="char:EOLhyphen"/>ved us with an everlaſting Love.</p>
+            <p>
+               <hi>Iſa.</hi> 26.3, 4. Thou wilt keep him in perfect Peace, whoſe mind is ſtaid on thee, becauſe he truſteth in thee. Truſt in the Lord for ever. For in the Lord Jehovah is everlaſting Strength.</p>
+            <p>Promiſes of Protection, Aſ<g ref="char:EOLhyphen"/>ſiſtance, Comfort, and deli<g ref="char:EOLhyphen"/>verance, whereby our Hearts may be upheld in the evil Day.</p>
+            <p>
+               <hi>Ezek.</hi> 9.4. Go through the midſt of <hi>Jeruſalem,</hi> and ſet a mark upon the Foreheads of them that ſigh and cry for all the abominations that are done in the midſt thereof.</p>
+            <p>
+               <hi>Pſal.</hi> 34.6. This Poor man cried, and the Lord heard, and ſaved him out of all his troubles. <hi>v.</hi> 19. Many are the
+<pb n="75" facs="tcp:171238:38"/> Afflictions, of the Righteous: But the Lord delivereth them ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of them all.</p>
+            <p>
+               <hi>Pſal.</hi> 46, 1. God is our re<g ref="char:EOLhyphen"/>fuge and ſtrength: A very preſent help in trouble. <hi>v.</hi> 2. Therefore will not we fear, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Pſa.</hi> 42.11. My Soul, why art thou caſt down, and diſquieted within me? Hope thou in God: for I ſhall yet Praiſe him, who is the health of my countenance, and my God.</p>
+            <p>
+               <hi>Iſa.</hi> 3.10. Say ye unto the Righteous, it ſhall be well with him.</p>
+            <p>
+               <hi>Prov.</hi> 3.25, 26. Be not afraid of ſudden Fear, neither of the deſolation of the wick<g ref="char:EOLhyphen"/>ed when it cometh. For the Lord ſhall be thy Confidence, and ſhall keep thy Foot from being taken.</p>
+            <pb n="76" facs="tcp:171238:39"/>
+            <p>
+               <hi>Pſa.</hi> 3.8. Salvation be<g ref="char:EOLhyphen"/>longeth to the Lord: Thy Bleſſing is upon thy Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p>
+               <hi>Pſa.</hi> 4.3. Know that the Lord hath ſet apart him that is godly for himſelf: The Lord will hear when I call unto him. <hi>v.</hi> 8. I will both lay me down in Peace, and Sleep. For thou Lord only makeſt me dwell in ſafety.</p>
+            <p>
+               <hi>Nahum</hi> 1.7. The Lord is good: A ſtrong hold in the Day of trouble, and he know<g ref="char:EOLhyphen"/>eth them that truſt in him.</p>
+            <p>2. <hi>Tim.</hi> 1.12. I know whom I have believed; And I am perſwaded that he is able to keep that which I have committed to him againſt that Day. For: <hi>Gen.</hi> 17.2. He is God Alſufficient.</p>
+            <p>
+               <hi>Promiſes</hi> made to Gods People in the moſt dangerous
+<pb n="77" facs="tcp:171238:39"/> Times. What confidence we ſhould have in God.</p>
+            <p>
+               <hi>Pſa.</hi> 27.1, 2, 3. The Lord is my Light and my Salvati<g ref="char:EOLhyphen"/>on, whom ſhall I fear? The Lord is the ſtrength of my life, of whom ſhall I be a<g ref="char:EOLhyphen"/>fraid. When the Wicked even mine Enemies, and my Foes came upon me to eat up my Fleſh, they ſtumbled and fell. Though an Hoſt ſhould encamp againſt me, my Heart ſhall not fear. Though War ſhould riſe againſt me, in this will I be confidenr. <hi>v.</hi> 4. One thing have I deſired of the Lord, that will I ſeek after: That I may dwell in the Houſe of the Lord all the daies of my life. <hi>v.</hi> 5. For in the time of trouble he ſhall hide me in his Pavilion: In the ſecret of his Tabernacle ſhall he hide me: <hi>He</hi> ſhall ſet
+<pb n="78" facs="tcp:171238:40"/> me up upon a Rock. Therefore <hi>v.</hi> 9. Hide not thy Face from me. Put not away thy Ser<g ref="char:EOLhyphen"/>vant in Anger: Thou haſt been my Help; Leave me not, neither forſake me, O God of my Salvation. <hi>v.</hi> 13. I had fainted unleſs I had believed to ſee the goodneſs of the Lord in the Land of the Li<g ref="char:EOLhyphen"/>ving. <hi>v.</hi> 14. Wait on the Lord. Be of good courage, and he ſhall ſtrengthen thy Heart. Wait I ſay on the Lord.</p>
+            <p>
+               <hi>Pſal.</hi> 40.4. Bleſſed is the Man that maketh the Lord his truſt, and reſpecteth not the Proud, nor ſuch as turn aſide to Lyes.</p>
+            <p>
+               <hi>Pſal.</hi> 32.1. In thee, O Lord, do I put my truſt: Let me never be aſhamed. V 3. For thou art my Rock, and my Fortreſs; therefore for thy Name ſake lead me and guide
+<pb n="79" facs="tcp:171238:40"/> me. <hi>v.</hi> 23. O love the Lord, all ye Saints: For the Lord preſerveth the Faithful. <hi>v.</hi> 24. Be of good courage, and he ſhall ſtrengthen your Heart, all ye that hope in the Lord.</p>
+            <p>
+               <hi>Pſa.</hi> 91.2. I will ſay of the Lord: He is my Refuge: and my Fortreſs. My God, in him will I truſt.</p>
+            <p>
+               <hi>Pſa.</hi> 94.14. For the Lord will not caſt off his People, nei<g ref="char:EOLhyphen"/>ther will he forſake his Inhe<g ref="char:EOLhyphen"/>ritance. <hi>v.</hi> 19. In the multitude of my Thoughts within me, thy Comforts delighted my Soul.</p>
+            <p>
+               <hi>Pſa.</hi> 102.2. Hide not thy Face from me in the Day when I am ln trouble, incline thine Ear unto me. In the Day when I call, anſwer me ſpeedily.</p>
+            <p>
+               <hi>Pſa.</hi> 115.11. Ye that fear the Lord truſt in the Lord.
+<pb n="80" facs="tcp:171238:41"/> He is their Help, and their Shield.</p>
+            <p>
+               <hi>Pſa.</hi> 112.7. He ſhall not be affraid of evil tidings. His Heart is fixed truſting in the Lord.</p>
+            <p>
+               <hi>Pſa.</hi> 118.5. I called upon the Lord in diſtreſs: The Lord anſwered me, and ſet me in a large place. <hi>v.</hi> 6. The Lord is on my ſide, I will not fear, what can man do unto me?</p>
+            <p n="1">1. <hi>Pet.</hi> 4.17. The time is come that Judgment muſt be<g ref="char:EOLhyphen"/>gin at the Houſe of God: And if it firſt begin at us, what ſhall the end be of them that obey not the Goſpel of God? <hi>v.</hi> 19. Wherefore let them that ſuffer according to the Will of God commit the keep<g ref="char:EOLhyphen"/>ing of their Souls to him in wel-doing, as unto a faithfu Creator.</p>
+            <pb n="81" facs="tcp:171238:41"/>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Theſ.</hi> 1.6, 7. It is a Righteous thing with God to recompence tribulation to them that trouble you. And to you who are troubled, reſt with us, when the Lord <hi>Jeſus Chriſt</hi> ſhall be revealed from Heaven, <hi>&amp;c.</hi>
+            </p>
+            <p>2. <hi>Theſ.</hi> 3.3. The Lord is faithful, who ſhall ſtabliſh you, and keep you from evil.</p>
+            <p>Theſe I have thought fit to t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nſcribe, hoping that by Gods bleſſing they may prove Uſeful and Comfortable to many others as they were to her. But beſides ſhe had col<g ref="char:EOLhyphen"/>lected many others, whereof (to prevent tediouſneſs) I ſhall only give you the Heads. As</p>
+            <p>Promiſes to ſtrengthen our Faith.</p>
+            <p>For Deliverance from all evil.</p>
+            <pb n="82" facs="tcp:171238:42"/>
+            <p>For aſſiſtance in times of trouble.</p>
+            <p>For the Reſurrection of our Bodies.</p>
+            <p>For Eternal Glory with <hi>Chriſt.</hi>
+            </p>
+            <p>That God will preſerve his Children from Afflictions ſo far as it is good for them.</p>
+            <p>That God will qualify, and moderate their Afflictions when they do come; And proportion them to their Strength.</p>
+            <p>That Afflictions are ſove<g ref="char:EOLhyphen"/>raign Medicines to kill Luſts, and to cure ſpiritual Diſea<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>Promiſes made to ſuch as ſuffer in a Good Cauſe, for the Truth.</p>
+            <p>Promiſes of Deliverances from the Evil World.</p>
+            <p>Of Comfort to ſuch as fall through Infirmity.</p>
+            <pb n="83" facs="tcp:171238:42"/>
+            <p>Promiſes made to ſuch as are Ignorant.</p>
+            <p>Comforts againſt doubts and fears of looſing the Love of God.</p>
+            <p>Comforts againſt forgetful<g ref="char:EOLhyphen"/>neſs of Good things.</p>
+            <p>Comforts againſt fears of falling from God.</p>
+            <p>Comforts againſt diſmay<g ref="char:EOLhyphen"/>edneſs under many and ſtrong Corruptions.</p>
+            <p>Comforts againſt troubles ariſing fom the want of the means of Grace, either in the whole, or in the Power of them.</p>
+            <p>Comforts to Gods Chil<g ref="char:EOLhyphen"/>dren in caſe of ſpiritual Diſer<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Promiſes of the continu<g ref="char:EOLhyphen"/>ance and Unchangeableneſs, of Gods Love.</p>
+            <p>Promiſes of Gods ſpecial and gracious preſence with
+<pb n="84" facs="tcp:171238:43"/> his Children.</p>
+            <p>Promiſes of Gods Pro<g ref="char:EOLhyphen"/>tection and Providence over his.</p>
+            <p>Promiſes of beſtowing <hi>Chriſt,</hi> and of many Bleſſings with him. As, of Redemp<g ref="char:EOLhyphen"/>tion: Effectual Calling: Juſti<g ref="char:EOLhyphen"/>fication: Reconciliation: A<g ref="char:EOLhyphen"/>doption: Of beſtowing the Spirit, for their Sanctificati<g ref="char:EOLhyphen"/>on; and all Spiritual Grace, As Faith; Confidence in God; Hope; Joy; Love to God: To <hi>Chriſt:</hi> To our Brethren: To Enemies: Of Obe<g ref="char:EOLhyphen"/>dience: Of Repentance; Of Knowledge: Of audience of their Prayers: Of Morti<g ref="char:EOLhyphen"/>fication of Sin, <hi>&amp;c.</hi>
+            </p>
+            <p>Promiſes of aſſiſtance in Holy Duties.</p>
+            <p>Promiſes of Gods accep<g ref="char:EOLhyphen"/>tance of our ſpiritual Sacrifi<g ref="char:EOLhyphen"/>ces.</p>
+            <pb n="85" facs="tcp:171238:43"/>
+            <p>Promiſes of a bleſſing upon Holy Ordinances.</p>
+            <p>Promiſes made to the con<g ref="char:EOLhyphen"/>ſcientious performance of ſundry Duties. As, to Prayer: To a careful ſeeking of God: To watchfulneſs: To con<g ref="char:EOLhyphen"/>ſcientious Sanctification of the <hi>Lords Dayes:</hi> For the pre<g ref="char:EOLhyphen"/>ſervation of his Church <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>In reading of Practical Au<g ref="char:EOLhyphen"/>thors ſhe had collected, and ſet down many things which ſhe found uſeful, and Comfortable to her Soul:</hi> As,</p>
+            <p>Certain grounds of Com<g ref="char:EOLhyphen"/>fort to build our Faith upon in times of Temptations.</p>
+            <p>Signs whereby we may know whether we be in Co<g ref="char:EOLhyphen"/>venant with God or no.</p>
+            <p>Reaſons why God made this Covenant with faln Man.</p>
+            <pb n="86" facs="tcp:171238:44"/>
+            <p>What are the Gifts and priviledges of this Covenant.</p>
+            <p>
+               <hi>She hath alſo ſet down m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny Helps to provoke, and enable us to wait Gods leiſure for the ac<g ref="char:EOLhyphen"/>compliſhment of his Rich, and free Promiſes, though his Pro<g ref="char:EOLhyphen"/>vidences ſeem to run croſs t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them.</hi>
+            </p>
+            <p>And how we may be ena<g ref="char:EOLhyphen"/>bled to apply Gods Promi<g ref="char:EOLhyphen"/>ſes.</p>
+            <p>And in the Concluſion of all ſhe thus Writes.</p>
+            <p>
+               <hi>It was the goodneſs of my God to remember me in my Youth, that ſo I might not for<g ref="char:EOLhyphen"/>get him, neither in my Youth, nor in my Old Age.</hi>
+            </p>
+            <p>By all this it may appear what were the Gifts, and Graces wherewith the Lord had adorned her, and what her inward Beauty was: And as the Jewel was rare, ſo was
+<pb n="87" facs="tcp:171238:44"/> the Cabinet wherein it was lodged, comly. And the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tels us
+<q>
+                  <lg>
+                     <l>
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>er eſt pulchro veniens è <gap reason="illegible" resp="#UOM" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>pore Virtus.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>That Virtue hath the greateſt Grace.</l>
+                     <l>That ſhineth through a Beau<g ref="char:EOLhyphen"/>teous Face.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>And ſuch truly was hers in her younger Dayes, and ſome Characters, and Lineaments of it continued in her Old Age, even to the laſt, as ſundry Per<g ref="char:EOLhyphen"/>ſons obſerved.</p>
+            <p>
+               <hi>Hallelujah.</hi>
+            </p>
+            <p>What was long ſince ſaid of <hi>Mrs Katherine Bretterg</hi> may be t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly applied unto her.</p>
+            <pb n="88" facs="tcp:171238:45"/>
+            <p>
+               <hi>Katherina</hi>
+               <list>
+                  <item>
+                     <hi>Pura: Chriſtoqua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> purgata,</hi>
+                  </item>
+                  <item>
+                     <hi>Vita, Chriſto p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<g ref="char:EOLhyphen"/>parata,</hi>
+                  </item>
+                  <item>
+                     <hi>Morte, Chriſto de<g ref="char:EOLhyphen"/>dicata,</hi>
+                  </item>
+                  <item>
+                     <hi>Coelis, Chriſto con<g ref="char:EOLhyphen"/>jugata.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Prov.</hi> 31.30. <hi>Favour is de<g ref="char:EOLhyphen"/>ceitful, and beauty is vain, but a Woman that feareth the Lord ſhe ſhall be Praiſed.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge <hi>4.</hi> Line <hi>6.</hi> for Iſa. read Iſabel, l. <hi>7.</hi> r. Overton f. verton, p. <hi>6.</hi> l. <hi>1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> r. words f. word, p. <hi>11.</hi> l <hi>22.</hi> add to, p. <hi>12.</hi> l. <hi>15.</hi> r. when f. wen, p. <hi>22.</hi> l. <hi>9. 10.</hi> r. cor<g ref="char:EOLhyphen"/>rupt times f. corruptions, p. <hi>24.</hi> l. <hi>9.</hi> r. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſo f. alſo, p. <hi>29.</hi> l. <hi>19.</hi> r. Houſhold affai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, p. <hi>32.</hi> l. <hi>14.</hi> add ſo, p. <hi>33.</hi> l. <hi>1.</hi> add the, p. <hi>35.</hi> l. <hi>3.</hi> r. ratling. f. rutling, l. <hi>6.</hi> add it. p. <hi>39.</hi> l. <hi>4.</hi> dele an i, in Exceſſive, p. <hi>35.</hi> l. <hi>6.</hi> add it, p. <hi>60.</hi> l. <hi>3.</hi> r. conquerours, l. <hi>13.</hi> r. ſometime, p. <hi>66.</hi> l. <hi>25.</hi> r. Superſcription, p. <hi>72.</hi> l. <hi>22.</hi> r. feareth f. ſearcheth.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:171238:45" rendition="simple:additions"/>
+            <head>Courteous Reader.</head>
+            <p>THeſe Books following are Printed for, and ſold by <hi>William Miller,</hi> at the <hi>Gil<g ref="char:EOLhyphen"/>ded Acorn</hi> in <hi>S. Paul's Church-Yard,</hi> where alſo you may be furniſhed with moſt ſorts of Bound or Stiched Books as Acts of Parliament, Pro<g ref="char:EOLhyphen"/>clamations, Speeches, Declarati<g ref="char:EOLhyphen"/>ons, Letters, Orders, Ordinances, Remonſtrances, Commiſſions, Articles: As alſo Books of Di<g ref="char:EOLhyphen"/>vinity, Catechiſms, Church government; Sermons on all Occaſions; and moſt ſorts of Hiſtories, Poetry, Plays and ſuch like, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:171238:46"/>
+            <list>
+               <head>Books in Folio.</head>
+               <item>ASſemblies Annotations.</item>
+               <item>
+                  <hi>Bakers</hi> Chronicle.</item>
+               <item>
+                  <hi>Geſners</hi> hiſtory of Beaſts and Serpents.</item>
+               <item>
+                  <hi>Heylin's</hi> Coſmography.</item>
+               <item>
+                  <hi>Joſephus</hi> Hiſtory of the Jews</item>
+               <item>
+                  <hi>Juvenal</hi> with Cuts by Sir <hi>Ro<g ref="char:EOLhyphen"/>bert Stapylton.</hi>
+               </item>
+               <item>
+                  <hi>Ambroſes</hi> works.</item>
+               <item>
+                  <hi>Cradocks</hi> Harmony.</item>
+               <item>
+                  <hi>Churchil</hi> Divi Britanici.</item>
+               <item>
+                  <hi>Elſon on Coloſſians.</hi>
+               </item>
+               <item>Knowledge and Practice, <hi>qua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Quarto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>Principles, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Gunters</hi> works.</item>
+               <item>
+                  <hi>Barbers</hi> Sermon, <hi>Iſa.</hi> 9.6.</item>
+               <item>
+                  <hi>J. B.</hi> Sermon, Survey of Man</item>
+               <item>
+                  <hi>Job</hi> 14, 10.</item>
+               <item>
+                  <hi>Dod</hi> on the Lords Prayer.</item>
+               <item>
+                  <hi>Medice Cura Teipſum,</hi> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Apothecaries plea againſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Doctor <hi>Chriſtopher Meret.</hi>
+               </item>
+               <pb facs="tcp:171238:46" rendition="simple:additions"/>
+               <item>
+                  <hi>William</hi> Lord Biſhop of <hi>Gluceſter,</hi> Entituled a plain and full Expoſition of the Ca<g ref="char:EOLhyphen"/>techiſm of the Church of <hi>En<g ref="char:EOLhyphen"/>gland.</hi>
+               </item>
+               <item>
+                  <hi>Edward</hi> Lord Biſhop of <hi>Norwich,</hi> Entituled, a Sermon preached before the Peers at <hi>Weſtminſter</hi> the 7. <hi>Nov.</hi> being a day of ſolemn Humiliation for the continuing Peſtilence.</item>
+               <item>
+                  <hi>Nat. Hardy</hi> Dr. Entituled, Juſtice Triumphing, <hi>&amp;c.</hi> a Sermon preached the 5, of <hi>No<g ref="char:EOLhyphen"/>vem.</hi> — Entituled, The pilgrims wiſh, a Sermon preached at the Funeral of Mrs. <hi>Anne Dudſon.</hi>
+               </item>
+               <item>—Entituled, A loud Call to great Mourning, a Sermon preached on the 30. <hi>Jan.</hi> 1661. before the Parliament.</item>
+               <item>—Entituled, Lamentation, Mourning and Wo, a Sermon preached the Lords day after
+<pb facs="tcp:171238:47"/> the diſmal Fire in the City of <hi>London.</hi>
+               </item>
+               <item>—Entituled, the Royal Common-wealths Man, <hi>&amp;c.</hi> a Sermon preached at the Fu<g ref="char:EOLhyphen"/>neral of Sir <hi>Thomas Adams.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Drake</hi> Dr. Entituled, ΘΕΟΥ ΔΙΆΚΟΝΟΖ, <hi>&amp;c.</hi> a Sermon preached at the Aſſizes at <hi>York.</hi> 1669.</item>
+               <item>—Entit. <hi>Totum Hominis, &amp;c.</hi> a Sermon preached the 15, <hi>March</hi> at the Aſſizes in <hi>York<g ref="char:punc">▪</g>
+                  </hi>
+               </item>
+               <item>Marriage of Arts a play.</item>
+               <item>Miſer a play.</item>
+               <item>Baſtard a play.</item>
+               <item>Cheats a play.</item>
+               <item>Faithful Shepherdeſs a play.</item>
+               <item>
+                  <hi>Horatius</hi> a play.</item>
+               <item>Polyencles a play,</item>
+               <item>Combat of love and friend<g ref="char:EOLhyphen"/>ſhip a play.</item>
+               <item>Spaniſh Gipſie a play.</item>
+               <item>
+                  <hi>Fettiplace,</hi> the ſouls narrow ſearch for ſin, <hi>oct.</hi>
+               </item>
+               <pb facs="tcp:171238:47" rendition="simple:additions"/>
+               <item>
+                  <hi>Fertiplace</hi> Chriſtian Moni<g ref="char:EOLhyphen"/>tor earneſtly and compaſſio<g ref="char:EOLhyphen"/>nately perſwading ſinners un<g ref="char:EOLhyphen"/>to true and timely repentance.</item>
+               <item>Engliſh Dictionary, or ex<g ref="char:EOLhyphen"/>poſitor, the 12 Edition Revi<g ref="char:EOLhyphen"/>ſed and enlarged, by <hi>S.C. duod.</hi>
+               </item>
+               <item>Compleat Bone-ſetter, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Templum Muſicum,</hi> or the Muſical Synop. <hi>oct.</hi>
+               </item>
+               <item>The famous game of Cheſs<g ref="char:EOLhyphen"/>play, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Shelton</hi>'s <hi>Tachygraphia, Lat. oct.</hi>
+               </item>
+               <item>
+                  <hi>Clarks</hi> Looking-glaſs for perſecutors, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Tillotſon</hi> and <hi>Stillingfleets</hi> rule of faith, <hi>oct.</hi>
+               </item>
+               <item>Heathen Gods, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Clavis Homerica, oct.</hi>
+               </item>
+               <item>
+                  <hi>Beverley</hi> Great Soul of Man, <hi>oct.</hi>
+               </item>
+               <item>— Death-bed Repentance, <hi>quar.</hi>
+               </item>
+               <item>
+                  <hi>Warren</hi> principles of Chri<g ref="char:EOLhyphen"/>ſtian Doctrin, <hi>oct. Janua</hi>
+               </item>
+               <pb facs="tcp:171238:48"/>
+               <item>
+                  <hi>Janua Linguarum Noviſſi<g ref="char:EOLhyphen"/>ma, oct.</hi>
+               </item>
+               <item>
+                  <hi>Commenii Veſtibulum, oct.</hi>
+               </item>
+               <item>
+                  <hi>Owen</hi> of Love, <hi>oct.</hi>
+               </item>
+               <item>Savage Life, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Buttler's</hi> Life, <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Syntaxis Eraſmiana, oct.</hi>
+               </item>
+               <item>
+                  <hi>Johanne Betto</hi> M. D. Enti<g ref="char:EOLhyphen"/>tuled, <hi>De Ortu &amp; Natura San<g ref="char:EOLhyphen"/>guinis, oct.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Elborow</hi> Entit. The famous Epiſtles of S. <hi>Polycarp</hi> and S. <hi>Ignatius</hi> Diſciples to the holy Evangeliſt and Apo<g ref="char:EOLhyphen"/>ſtle S. <hi>John;</hi> with the Epiſtle of S. <hi>Barnabas,</hi> &amp;c. <hi>oct.</hi>
+               </item>
+               <item>
+                  <hi>Martials</hi> Epigrams by <hi>Buſ<g ref="char:EOLhyphen"/>by, duod.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Mall</hi> &amp; <hi>Theoph. Pol. wheile,</hi> Entit. Holy Li<g ref="char:EOLhyphen"/>ving, a ſeri<g ref="char:EOLhyphen"/>ous Exhortati<g ref="char:EOLhyphen"/>on thereunto, and choice Di<g ref="char:EOLhyphen"/>rections there<g ref="char:EOLhyphen"/>in, <hi>&amp;c. duod.</hi>
+               </item>
+               <pb facs="tcp:171238:48" rendition="simple:additions"/>
+               <item>Wit Revived, <hi>duod.</hi>
+               </item>
+               <item>Supplication of Saints, <hi>duod.</hi>
+               </item>
+               <item>
+                  <hi>Butlers</hi> Rhetorick, <hi>duod.</hi>
+               </item>
+               <item>
+                  <hi>Clark</hi> abour comfort which Gods children have, or at he leaſt earneſtly deſire and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong after whilſt they are in this World, together with the obſtructions of comfort, and the removal of them, <hi>duod.</hi>
+               </item>
+               <item>
+                  <hi>Jeofferies</hi> New years gift, <hi>duod.</hi>
+               </item>
+               <item>Divine Examples of Gods ſevere Judgements upon Sab<g ref="char:EOLhyphen"/>bath breakers in their unlaw<g ref="char:EOLhyphen"/>ful ſports, Collected out of ſeveral Divine ſubjects, <hi>viz.</hi> Maſter <hi>H, B.</hi> Maſter <hi>Beard,</hi> and the <hi>Practice of Piety:</hi> a fit mo<g ref="char:EOLhyphen"/>nument for our preſent times, <hi>&amp;c.</hi>
+               </item>
+               <item>A brief Remembrancer, or the right Improvement of Chriſt's Birth day.</item>
+               <item>A ſecond ſheet of old Ma<g ref="char:EOLhyphen"/>ſter
+<pb facs="tcp:171238:49"/> 
+                  <hi>Dod's</hi> ſayings, or another Poſie gathered out of Maſter <hi>Dod's</hi> Garden.</item>
+               <item>The Hunting for Money the firſt part:</item>
+               <item>The Hunting Match for Money the 2. part.</item>
+               <item>
+                  <hi>Vennings</hi> Alarm.</item>
+               <item>Muſes fire-works upon the fifth of <hi>November,</hi> or the Pro<g ref="char:EOLhyphen"/>teſtant Remembrancer.</item>
+               <item>
+                  <hi>Perkin's</hi> whole Duty of Man.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171238:49" rendition="simple:additions"/>
+            <pb facs="tcp:171238:50"/>
+            <pb facs="tcp:171238:50"/>
+         </div>
+      </back>
+   </text>
+</TEI>
